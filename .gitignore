@@ -1,5 +1,9 @@
 # Imagens dos notebooks
-# img/desafios/
+img/desafios/
 img/*.jpg
 
+# Consultas SQL históricas
 *.sql
+
+# Arquivos dos desafios
+desafios/

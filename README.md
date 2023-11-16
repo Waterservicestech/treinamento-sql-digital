@@ -59,7 +59,7 @@ Ao final de cada aula, um **notebook desafio** será publicado na pasta `desafio
 
 Para validar a entrega, as respostas deverão ser submetidas nos seguintes formulários, até o início da aula seguinte.
 
-- Aula 01 - Fundamentos de Modelagem de dados e SQL: [Respostas Desafio](https://forms.office.com/Pages/ResponsePage.aspx?id=ZGam_oRKOUWCae5590Wj9FS9-n8B4l1Lnw5_DgAQToBUREtIU0ZEQ0I2RTlaWUU5M0tUMldJNFREUC4u)
+<!-- - Aula 01 - Fundamentos de Modelagem de dados e SQL: [Respostas Desafio](https://forms.office.com/Pages/ResponsePage.aspx?id=ZGam_oRKOUWCae5590Wj9FS9-n8B4l1Lnw5_DgAQToBUREtIU0ZEQ0I2RTlaWUU5M0tUMldJNFREUC4u) -->
 <!-- - Aula 02 - Manipulação de dados com SQL: [Respostas Desafio]()
 - Aula 03 - Técnicas avançadas de consultas: [Respostas Desafio]()
 - Aula 04 - Melhores práticas de SQL: [Respostas Desafio]() -->
