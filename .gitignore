@@ -1,9 +1,8 @@
 # Imagens dos notebooks
-img/desafios/
-img/*.jpg
+# img/desafios/
 
 # Consultas SQL históricas
 *.sql
 
 # Arquivos dos desafios
-desafios/
+*_Solution.ipynb
