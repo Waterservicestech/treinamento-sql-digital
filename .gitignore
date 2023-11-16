@@ -1,4 +1,5 @@
 # Imagens dos notebooks
-img/desafios/
-img/aula01/
+# img/desafios/
 img/*.jpg
+
+*.sql
