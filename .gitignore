@@ -5,4 +5,7 @@
 *.sql
 
 # Arquivos dos desafios
-*_Solution.ipynb
+Aula02_Challenge_Solution.ipynb
+
+# Próximas aulas
+Aula03_TecnicasAvancadas.ipynb

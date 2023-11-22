@@ -35,9 +35,9 @@ As aulas práticas ocorrerão via *Teams* e as gravações serão posteriormente
 - Aula 01 - Fundamentos de Modelagem de dados e SQL
   - [Sala Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI4NzQyYmEtNTgxNy00OTgyLWE5NWYtOGU5YmU3ZTk1NzVm%40thread.v2/0?context=%7b%22Tid%22%3a%22fea66664-4a84-4539-8269-ee79f745a3f4%22%2c%22Oid%22%3a%227ffabd54-e201-4b5d-9f0e-7f0e00104e80%22%7d)
   - [Gravação](https://waterltda-my.sharepoint.com/:v:/g/personal/lucas_fernandes_waterservicestech_com/ERWr1ybDgZlEqrImpshR94QB8pwQ-WED2mK1H8AtuXtr-Q)
-<!-- - Aula 02 - Manipulação de dados com SQL
+- Aula 02 - Manipulação de dados com SQL
   - [Sala Teams]()
-  - [Gravação]() -->
+  - [Gravação]()
 <!-- - Aula 03 - Técnicas avançadas de consultas
   - [Sala Teams]()
   - [Gravação]() -->
