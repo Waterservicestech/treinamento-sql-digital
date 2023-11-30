@@ -36,11 +36,11 @@ As aulas práticas ocorrerão via *Teams* e as gravações serão posteriormente
   - [Sala Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI4NzQyYmEtNTgxNy00OTgyLWE5NWYtOGU5YmU3ZTk1NzVm%40thread.v2/0?context=%7b%22Tid%22%3a%22fea66664-4a84-4539-8269-ee79f745a3f4%22%2c%22Oid%22%3a%227ffabd54-e201-4b5d-9f0e-7f0e00104e80%22%7d)
   - [Gravação](https://waterltda-my.sharepoint.com/:v:/g/personal/lucas_fernandes_waterservicestech_com/ERWr1ybDgZlEqrImpshR94QB8pwQ-WED2mK1H8AtuXtr-Q)
 - Aula 02 - Manipulação de dados com SQL
-  - [Sala Teams]()
+  - [Sala Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWU0OGM5NDItZGYwMC00MjFjLTg2ZGMtNWQzMDc1YzA2M2E0%40thread.v2/0?context=%7b%22Tid%22%3a%22fea66664-4a84-4539-8269-ee79f745a3f4%22%2c%22Oid%22%3a%227ffabd54-e201-4b5d-9f0e-7f0e00104e80%22%7d)
+  - [Gravação](https://waterltda-my.sharepoint.com/:v:/g/personal/thales_cosendey_waterservicestech_com/Ee6pBM02BPpElkxa2DStfyoB7SrKzRiFrZHTHIRHe1MEig)
+- Aula 03 - Técnicas avançadas de consultas
+  - [Sala Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzRjZGJkNzItYTFmNC00YjM4LWI0NGYtMmRiOTY3MzVkZmE4%40thread.v2/0?context=%7b%22Tid%22%3a%22fea66664-4a84-4539-8269-ee79f745a3f4%22%2c%22Oid%22%3a%227ffabd54-e201-4b5d-9f0e-7f0e00104e80%22%7d)
   - [Gravação]()
-<!-- - Aula 03 - Técnicas avançadas de consultas
-  - [Sala Teams]()
-  - [Gravação]() -->
 <!-- - Aula 04 - Melhores práticas de SQL
   - [Sala Teams]()
   - [Gravação]() -->
@@ -60,6 +60,6 @@ Ao final de cada aula, um **notebook desafio** será publicado na pasta `desafio
 Para validar a entrega, as respostas deverão ser submetidas nos seguintes formulários, até o início da aula seguinte.
 
 - Aula 01 - Fundamentos de Modelagem de dados e SQL: [Respostas Desafio](https://forms.office.com/Pages/ResponsePage.aspx?id=ZGam_oRKOUWCae5590Wj9FS9-n8B4l1Lnw5_DgAQToBUREtIU0ZEQ0I2RTlaWUU5M0tUMldJNFREUC4u)
-<!-- - Aula 02 - Manipulação de dados com SQL: [Respostas Desafio]()
-- Aula 03 - Técnicas avançadas de consultas: [Respostas Desafio]()
-- Aula 04 - Melhores práticas de SQL: [Respostas Desafio]() -->
+- Aula 02 - Manipulação de dados com SQL: [Respostas Desafio](https://forms.office.com/Pages/ResponsePage.aspx?id=ZGam_oRKOUWCae5590Wj9FS9-n8B4l1Lnw5_DgAQToBURjQzQzkyWE1JRVNMTE5PTE1CWk9HMlpaNC4u)
+- Aula 03 - Técnicas avançadas de consultas: [Respostas Desafio](https://forms.office.com/Pages/ResponsePage.aspx?id=ZGam_oRKOUWCae5590Wj9FS9-n8B4l1Lnw5_DgAQToBUNFlER0pFUFkyMTk2WTc1S1E1SVBDNEc0SS4u)
+<!-- - Aula 04 - Melhores práticas de SQL: [Respostas Desafio]() --> -->
