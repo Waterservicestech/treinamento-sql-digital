@@ -4,8 +4,4 @@
 # Consultas SQL históricas
 *.sql
 
-# Arquivos dos desafios
-Aula03_Challenge_Solution.ipynb
-
-# Próximas aulas
-Aula04_MelhoresPraticas.ipynb
+Aula04_Challenge_Solution.ipynb
